@@ -30,7 +30,7 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedBaashith&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBaashith&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -43,7 +43,7 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohamed-baashith-u">
+  <a href="https://www.linkedin.com/in/mohamed-baashith-u-270032330">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/MohamedBaashith">
